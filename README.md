@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @hEzHil
-- 👀 I’m interested in java,html,python,c++
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-
+ I am Ezhil.
+ I have pursued B.Tech in Information Technology from Crescent University.
+ And i am currently working on a project based on the Spring Boot framework.
